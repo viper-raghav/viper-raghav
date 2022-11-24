@@ -7,7 +7,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: https://www.freepnglogos.com/images/logo-twitter-png-5872.html
+[1.2]: https://www.freepnglogos.com/images/linkedin-logo-png-1853.html
 [2.2]: https://www.freepnglogos.com/images/linkedin-logo-png-1853.html
 
 <!-- Links to your social media accounts -->
