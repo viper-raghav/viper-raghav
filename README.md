@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, i'm Raghav 👋
 [![@raghavupdh17's Holopin board](https://holopin.me/raghavupdh17)](https://holopin.io/@raghavupdh17) 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/raghav%20upadhyay?style=social)
+
+
 
 
 
